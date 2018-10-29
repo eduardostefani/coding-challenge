@@ -29,7 +29,7 @@ npm install -g @vue/cli
 ## Project setup
 
 ```
-spring-boot-vuejs
+adidas
 ├─┬ backend     → backend module with Spring Boot code
 │ ├── src
 │ └── pom.xml
